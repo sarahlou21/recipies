@@ -2,4 +2,6 @@
 !final.png
 receipts/*
 !receipts/data
+storage/*
+!storage/s3/.gitkeep
 
